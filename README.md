@@ -17,13 +17,13 @@ ____________________________________
 
 # this method has two variables num1 and num2 return product of two numbers
 
-# Write a test for add method 
+# write a test for add method 
 ```
 ____________________________________
 
 3. Python Program with advanced function
 ```
-# Write a method to download youtube video
+# write a method to download youtube video
 ```
 
 Test the feature "See Real World example from Github" 
