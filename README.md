@@ -38,5 +38,7 @@ ____________________________________
 ____________________________________
 
 5. Run security Code for main.py
+![alt text](https://github.com/kitson618/awssummithk-codewhisperer/blob/main/issue.png))
+![alt text](https://github.com/kitson618/awssummithk-codewhisperer/blob/main/fix.png))
 
 
