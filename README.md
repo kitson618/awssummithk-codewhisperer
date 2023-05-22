@@ -1,7 +1,5 @@
-# awssummithk-codewhisperer
-
-AWS Summit HK - Morning Boost: 
-Master AI/ML with AWS DeepRacer and Amazon CodeWhisperer
+# AWS Summit HK - Morning Boost
+## Master AI/ML with AWS DeepRacer and Amazon CodeWhisperer
 
 0. Install AWS ToolKit extention to your Visual Studio Code
 
